@@ -1,4 +1,4 @@
-# DEEPL
+# DL
 1 Demonstrate use of TENSORFLOW and PYTORCH by implementing simple code in python
 
 2 Demonstrate use of TENSORFLOW and KERAS (Diabetes Dataset) by implementing simple code in python
